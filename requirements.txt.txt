@@ -1,0 +1,10 @@
+tensorflow==2.10.1
+tensorflow-addons==0.22.0
+keras==2.10.0
+python==3.10.17
+numpy
+matplotlib
+pillow
+tqdm
+skillsnetwork==0.20.6
+ipython

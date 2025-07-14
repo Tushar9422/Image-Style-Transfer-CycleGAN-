@@ -1,9 +1,9 @@
 # 🎨 Image Style Transfer using CycleGAN
 
 > Built with the tools and technologies:  
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
-> ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/) 
-> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+> ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ---
 
@@ -83,15 +83,14 @@ Image Style Transfer (CycleGAN)/
 
 🧑‍💻 Option 1: Jupyter Notebook
 
-    ```bash
     jupyter notebook notebooks/CycleGAN_project.ipynb
 
-Option 2: Python Script
-    ```bash
-    python scripts/CycleGAN_project.py
+🐍 Option 2: Python Script
 
+    python scripts/CycleGAN_project.py
+    
 🌐 Option 3: Streamlit App
-    ```bash
+
     streamlit run streamlit_app.py
 
 
